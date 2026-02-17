@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%d.%m.%Y" }}</p>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+
+<a href="{{ "/" | relative_url }}" class="btn-bevy" style="margin-top: 40px; display: inline-block;">← Zurück zur Startseite</a>

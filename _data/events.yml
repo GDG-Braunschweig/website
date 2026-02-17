@@ -1,0 +1,199 @@
+---
+- id: 97787
+  title: Smart Home Tech Talk
+  start_date: '2025-07-16T17:00:00+02:00'
+  end_date: '2025-07-16T19:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-smart-home-tech-talk/
+  status: Published
+- id: 93375
+  title: Google I/O Extended 2025 - Watch Party Braunschweig
+  start_date: '2025-05-20T18:30:00+02:00'
+  end_date: '2025-05-20T21:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-google-io-extended-2025-watch-party-braunschweig/
+  status: Published
+- id: 84893
+  title: Intro to LLM Development
+  start_date: '2025-01-30T18:00:00+01:00'
+  end_date: '2025-01-30T19:30:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-intro-to-llm-development/
+  status: Published
+- id: 74005
+  title: 'Tech Talk: Is this legal?'
+  start_date: '2024-11-14T18:00:00+01:00'
+  end_date: '2024-11-14T19:00:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-tech-talk-is-this-legal/
+  status: Published
+- id: 72424
+  title: Flutter meetup Braunschweig
+  start_date: '2024-10-17T18:00:00+02:00'
+  end_date: '2024-10-17T19:30:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-flutter-meetup-braunschweig/
+  status: Published
+- id: 67893
+  title: Building a startup with Flutter and Serverpod
+  start_date: '2024-06-27T18:00:00+02:00'
+  end_date: '2024-06-27T19:30:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-building-a-startup-with-flutter-and-serverpod/
+  status: Published
+- id: 66481
+  title: Flutter Serverside - Drawing pixels far from where we are looking at them
+  start_date: '2024-05-23T18:00:00+02:00'
+  end_date: '2024-05-23T19:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-flutter-serverside-drawing-pixels-far-from-where-we-are-looking-at-them/
+  status: Published
+- id: 66637
+  title: Google I/O Extended 2024 - Watch Party Braunschweig
+  start_date: '2024-05-14T18:30:00+02:00'
+  end_date: '2024-05-14T21:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-google-io-extended-2024-watch-party-braunschweig/
+  status: Published
+- id: 65957
+  title: The World of Google Gemini - An Introduction.
+  start_date: '2024-04-30T18:00:00+02:00'
+  end_date: '2024-04-30T20:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-the-world-of-google-gemini-an-introduction/
+  status: Published
+- id: 61482
+  title: Kotlin Multiplatform (KMP) Release Party
+  start_date: '2023-11-21T17:45:00+01:00'
+  end_date: '2023-11-21T19:30:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-kotlin-multiplatform-kmp-release-party/
+  status: Published
+- id: 58731
+  title: Hi, have you met Kotlin Multiplatform?
+  start_date: '2023-09-14T19:00:00+02:00'
+  end_date: '2023-09-14T21:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-hi-have-you-met-kotlin-multiplatform/
+  status: Published
+- id: 54141
+  title: Google I/O Extended 2023 Watch Party - Braunschweig
+  start_date: '2023-05-10T18:30:00+02:00'
+  end_date: '2023-05-10T23:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-google-io-extended-2023-watch-party-braunschweig/
+  status: Published
+- id: 50436
+  title: GDG Braunschweig Weihnachtsmarkt
+  start_date: '2022-12-21T18:30:00+01:00'
+  end_date: '2022-12-21T21:00:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-gdg-braunschweig-weihnachtsmarkt/
+  status: Published
+- id: 43922
+  title: Google I/O Extended 2022 - Braunschweig
+  start_date: '2022-05-11T18:30:00+02:00'
+  end_date: '2022-05-11T22:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-google-io-extended-2022-braunschweig/
+  status: Published
+- id: 43070
+  title: Enter the Matrix. Alternative zu WhatsApp und Co?
+  start_date: '2022-03-16T20:30:00+01:00'
+  end_date: '2022-03-16T21:15:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-enter-the-matrix-alternative-zu-whatsapp-und-co/
+  status: Published
+- id: 37954
+  title: Google I/O 2021 Extended Keynote Viewing Party
+  start_date: '2021-05-18T18:30:00+02:00'
+  end_date: '2021-05-18T23:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-google-io-2021-extended-keynote-viewing-party/
+  status: Published
+- id: 24184
+  title: Flutter Day
+  start_date: '2020-06-25T17:45:00+02:00'
+  end_date: '2020-06-25T19:15:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-flutter-day/
+  status: Published
+- id: 3361
+  title: GDG Event - GraphQL
+  start_date: '2020-02-19T18:30:00+01:00'
+  end_date: '2020-02-19T20:30:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-gdg-event-graphql/
+  status: Published
+- id: 3360
+  title: Flutter Interact Viewing Party
+  start_date: '2019-12-11T19:00:00+01:00'
+  end_date: '2019-12-11T21:00:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-flutter-interact-viewing-party/
+  status: Published
+- id: 3359
+  title: GDG Bar Event
+  start_date: '2019-11-12T19:00:00+01:00'
+  end_date: '2019-11-12T21:00:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-gdg-bar-event/
+  status: Published
+- id: 3358
+  title: Kotlin / Everywhere Braunschweig
+  start_date: '2019-08-22T18:30:00+02:00'
+  end_date: '2019-08-22T21:30:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-kotlin-everywhere-braunschweig/
+  status: Published
+- id: 3357
+  title: Google I/O Extended
+  start_date: '2019-05-07T18:30:00+02:00'
+  end_date: '2019-05-07T22:30:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-google-io-extended/
+  status: Published
+- id: 3356
+  title: Google Cloud Study Jam - IoT
+  start_date: '2019-03-24T12:30:00+01:00'
+  end_date: '2019-03-24T20:00:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-google-cloud-study-jam-iot/
+  status: Published
+- id: 3355
+  title: Flutter live viewing
+  start_date: '2018-12-04T17:00:00+01:00'
+  end_date: '2018-12-04T20:00:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-flutter-live-viewing/
+  status: Published
+- id: 3354
+  title: DACHFest 2018 (DevFest DACH)
+  start_date: '2018-11-10T09:00:00+01:00'
+  end_date: '2018-11-11T20:00:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-dachfest-2018-devfest-dach/
+  status: Published
+- id: 3353
+  title: Firebase - Cloud Firestore
+  start_date: '2018-11-01T18:00:00+01:00'
+  end_date: '2018-11-01T21:00:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-firebase-cloud-firestore/
+  status: Published
+- id: 3352
+  title: Flutter Study Jam
+  start_date: '2018-09-22T13:00:00+02:00'
+  end_date: '2018-09-22T18:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-flutter-study-jam/
+  status: Published
+- id: 3351
+  title: Google I/O Extended Braunschweig
+  start_date: '2018-05-08T18:30:00+02:00'
+  end_date: '2018-05-08T22:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-google-io-extended-braunschweig/
+  status: Published
+- id: 3350
+  title: GDG Braunschweig - Treffen März
+  start_date: '2018-03-14T18:30:00+01:00'
+  end_date: '2018-03-14T21:30:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-gdg-braunschweig-treffen-marz/
+  status: Published
+- id: 3349
+  title: Mobile Developer Stammtisch BS Dezember
+  start_date: '2017-12-20T18:00:00+01:00'
+  end_date: '2017-12-20T21:00:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-mobile-developer-stammtisch-bs-dezember/
+  status: Published
+- id: 3348
+  title: Mobile Developer Stammtisch Braunschweig November
+  start_date: '2017-11-22T18:00:00+01:00'
+  end_date: '2017-11-22T21:00:00+01:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-mobile-developer-stammtisch-braunschweig-november/
+  status: Published
+- id: 3347
+  title: Mobile Developer Stammtisch Braunschweig Oktober
+  start_date: '2017-10-25T18:00:00+02:00'
+  end_date: '2017-10-25T21:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-mobile-developer-stammtisch-braunschweig-oktober/
+  status: Published
+- id: 3346
+  title: Mobile Developer Stammtisch Braunschweig September
+  start_date: '2017-09-27T18:00:00+02:00'
+  end_date: '2017-09-27T21:00:00+02:00'
+  url: https://gdg.community.dev/events/details/google-gdg-braunschweig-presents-mobile-developer-stammtisch-braunschweig-september/
+  status: Published

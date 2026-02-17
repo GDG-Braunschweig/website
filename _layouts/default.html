@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "de" }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    {% seo %}
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <a class="site-title" href="{{ "/" | relative_url }}">
+                <span class="gdg-logo">GDG</span> Braunschweig
+            </a>
+            <nav class="site-nav">
+                <a href="{{ "/" | relative_url }}#events">Events</a>
+                <a href="{{ "/" | relative_url }}#announcements">News</a>
+                <a href="{{ "/" | relative_url }}#gallery">Fotos</a>
+                <a href="{{ "/" | relative_url }}#team">Team</a>
+                <a href="{{ site.bevy_link }}" class="btn-bevy" target="_blank">Bevy</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <div class="container">
+            {{ content }}
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-col-wrapper">
+                <div class="footer-col">
+                    <p>{{ site.description }}</p>
+                </div>
+                <div class="footer-col">
+                    <ul>
+                        <li><a href="{{ site.slack_link }}">Slack</a></li>
+                        <li><a href="{{ site.linkedin_url }}">LinkedIn</a></li>
+                        <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+                        <li><a href="{{ "/feed.xml" | relative_url }}">RSS Feed</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

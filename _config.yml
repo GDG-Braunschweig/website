@@ -1,0 +1,19 @@
+title: GDG Braunschweig
+email: info@gdg-braunschweig.de
+description: >-
+  Willkommen beim Google Developer Group (GDG) Kapitel Braunschweig! 
+  Wir sind eine Community von Entwicklern, die sich über Google-Technologien austauschen.
+baseurl: "/website" 
+url: "https://gdg-braunschweig.github.io"
+
+# Social Links
+slack_link: "https://join.slack.com/t/gdg-braunschweig/shared_invite/zt-3q9qkm9c3-51FVfgwXB~v38GTb5i622w"
+bevy_link: "https://gdg.community.dev/gdg-braunschweig/"
+linkedin_url: "https://www.linkedin.com/company/gdg-braunschweig/"
+github_username: gdg-braunschweig
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
