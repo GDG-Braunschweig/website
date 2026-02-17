@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link rel="icon" type="image/png" href="{{ "/assets/images/favicon.png" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     {% seo %}
 </head>
@@ -11,7 +12,7 @@
     <header class="site-header">
         <div class="container">
             <a class="site-title" href="{{ "/" | relative_url }}">
-                <span class="gdg-logo">GDG</span> Braunschweig
+                <img src="{{ "/assets/images/gdg-logo-bs.png" | relative_url }}" alt="GDG Braunschweig Logo" class="header-logo">
             </a>
             <nav class="site-nav">
                 <a href="{{ "/" | relative_url }}#events">Events</a>
